@@ -111,23 +111,44 @@ I enjoy building clean and reproducible machine learning workflows — from data
 
 ---
 
-## 📈 Contribution Activity
+## 🧠 Research & Development Focus
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srabon-d-costa&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff" alt="GitHub activity graph" />
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0891B2?style=for-the-badge&logo=pytorch&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00CCBB?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-1E293B?style=for-the-badge&logo=python&logoColor=white)
+![Research Documentation](https://img.shields.io/badge/Research%20Documentation-D14836?style=for-the-badge&logo=overleaf&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ What I Like to Build
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srabon-d-costa&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+<table>
+<tr>
+<td align="center" width="250">
+<h3>🤖 AI Models</h3>
+<p>Deep learning and computer vision experiments</p>
+</td>
+<td align="center" width="250">
+<h3>📊 Data Pipelines</h3>
+<p>Dataset preparation, cleaning, splitting, and evaluation</p>
+</td>
+<td align="center" width="250">
+<h3>🔬 Research Workflows</h3>
+<p>Reproducible experiments and scientific documentation</p>
+</td>
+</tr>
+</table>
 
 </div>
+
+
 
 ---
 
